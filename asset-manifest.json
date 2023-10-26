@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/Todo-App-Localstorage-Integration/static/js/main.2ed46440.js",
+    "main.css": "/Todo-App-Localstorage-Integration/static/css/main.80f9481a.css",
+    "main.js": "/Todo-App-Localstorage-Integration/static/js/main.a72bafab.js",
     "index.html": "/Todo-App-Localstorage-Integration/index.html",
-    "main.2ed46440.js.map": "/Todo-App-Localstorage-Integration/static/js/main.2ed46440.js.map"
+    "main.80f9481a.css.map": "/Todo-App-Localstorage-Integration/static/css/main.80f9481a.css.map",
+    "main.a72bafab.js.map": "/Todo-App-Localstorage-Integration/static/js/main.a72bafab.js.map"
   },
   "entrypoints": [
-    "static/js/main.2ed46440.js"
+    "static/css/main.80f9481a.css",
+    "static/js/main.a72bafab.js"
   ]
 }
